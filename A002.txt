@@ -1,4 +1,4 @@
 int num1=10;
 int num2=20;
-int hap=num+num2
-System.out.pruntln("합계:"+hap)
+int sum=num+num2
+System.out.pruntln("합계:"+sum)
